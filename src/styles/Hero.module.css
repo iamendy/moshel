@@ -1,0 +1,37 @@
+
+.heroTitle{
+    @apply text-[36px] leading-[50px] text-white font-exo-bold mx-auto text-center mt-[113px] relative z-50
+    lg:w-[90%] lg:text-[64px] lg:leading-[78px] lg:text-left lg:ml-0
+    2xl:mt-[200px] 2xl:w-[80%];
+}
+
+.subtitle{
+    @apply font-dm-sans mt-5 mx-auto leading-[25px] tracking-[0.016em] text-center
+    lg:text-[1.3rem] lg:text-left lg:tracking-[0.01em]
+    2xl:w-[80%] 2xl:mx-0 2xl:tracking-[0.03em];
+    font-weight: 300;
+}
+
+.highlight{
+    @apply relative;
+}
+
+.highlight::before{
+    content: "";
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%, -50%);
+    width: 100px;
+    height: 20px;
+    @apply lg:w-[150px] lg:h-[30px];
+    z-index: -1;
+    background: linear-gradient(90deg, #5C19F3 0%, #D123E3 100%);
+}
+
+.chatBtn{
+    @apply mt-10 p-[14px] text-[14px] flex items-center
+    lg:p-[24px] lg:text-[18px];
+    background: linear-gradient(85.63deg, #F827DE -9.39%, #2B14F9 114.93%);
+    border-radius: 8px;
+}

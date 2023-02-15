@@ -1,6 +1,9 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '@/styles/Home.module.css'
+import NavBar from "@/components/NavBar";
+import Hero from "@/components/Hero";
+import Features from "@/components/Features";
 
 export default function Home() {
   return (
@@ -14,46 +17,12 @@ export default function Home() {
 
       <main className="bg-black text-white">
         <div className="top">
-
             <div className="left flex-1 md:flex-[6]">
               {/*Navigation*/}
-              <nav className="nav mt-7">
-                <div className="wrapper">
-                  <div className="m-nav flex justify-between items-center">
-                    <img src="/img/logo_main.png" alt="logo" className="logo"/>
-                    <div className="toggle">
-                      <div></div>
-                      <div></div>
-                      <div></div>
-                    </div>
-
-                    <div className="d-links">
-                      <a href="#" className="link-item"> Home </a>
-                      <a href="#" className="link-item"> How it works </a>
-                      <a href="#" className="link-item"> Roadmap </a>
-                    </div>
-                  </div>
-                </div>
-              </nav>
+              <NavBar/>
 
               {/*Hero*/}
-              <section className="mb-14">
-                <div className="wrapper">
-                  <h1 className="hero-title relative z-50">
-                    Exchange your BTC, ETH, USDT, BNB, and BUSD with <span className="highlight">Ease</span>
-                  </h1>
-
-                  <p className="subtitle">
-                    At MoshelSwap, you are one click away from converting your digital assets into ₦NGN. Our team has
-                    been
-                    trading digital assets professionally since 2015 and we offer the best rates.
-                  </p>
-
-                  <div className="flex justify-center lg:justify-start items-center font-exo-bold">
-                    <button className="chat-btn"> Chat on WhatsApp</button>
-                  </div>
-                </div>
-              </section>
+              <Hero/>
             </div>
 
             {/*Image*/}
@@ -66,8 +35,9 @@ export default function Home() {
                 <Image src="/img/vintage.png" alt="vintage NFT" width={100} height={100} layout="responsive"/>
               </div>
             </div>
-
         </div>
+
+        <Features/>
       </main>
     </>
   )

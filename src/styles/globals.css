@@ -13,34 +13,9 @@
     src: url("../../public/fonts/Exo-Bold.otf");
 }
 
-.hero-title{
-    @apply text-[36px] leading-[50px] text-white font-exo-bold mx-auto text-center mt-[113px]
-    lg:w-[90%] lg:text-[64px] lg:leading-[78px] lg:text-left lg:ml-0
-    2xl:mt-[200px] 2xl:w-[80%];
-}
-
-.subtitle{
-    @apply font-dm-sans mt-5 mx-auto leading-[25px] tracking-[0.016em] text-center
-    lg:text-[1.3rem] lg:text-left lg:tracking-[0.01em]
-    2xl:w-[80%] 2xl:mx-0 2xl:tracking-[0.03em];
-    font-weight: 300;
-}
-
-.highlight{
-    @apply relative;
-}
-
-.highlight::before{
-    content: "";
-    position: absolute;
-    left: 50%;
-    top: 30%;
-    transform: translate(-50%, -50%);
-    width: 100px;
-    height: 20px;
-    @apply lg:w-[150px] lg:h-[30px];
-    z-index: -1;
-    background: linear-gradient(90deg, #5C19F3 0%, #D123E3 100%);
+.wrapper{
+    @apply px-5 w-full mx-auto
+    lg:w-[90%];
 }
 
 .top{
@@ -48,65 +23,8 @@
     md:flex-row;
 }
 
-.logo{
-    width: 50px;
-    height: 40px;
-    object-fit: contain;
-}
-
-.toggle{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
-    align-items: stretch;
-    width: 30px;
-    height: 40px;
-}
-
-.toggle > div {
-    border:solid 1px white;
-    width: 100%;
-    background-color: white;
-    border-radius: 5px;
-    @apply md:hidden;
-}
-
 .right{
     background: linear-gradient(199.65deg, #DD24E1 1.5%, #5117F4 102.15%);
-}
-
-.d-links{
-    @apply hidden
-    md:flex
-}
-
-.link-item{
-   @apply ml-[30px] relative font-dm-sans
-   lg:text-[1.2rem];
-    letter-spacing: 0.02em;
-}
-
-.link-item::before{
-    content: "";
-    position: absolute;
-    bottom: -5px;
-    left: 0;
-    width: 100%;
-    height: 2px;
-    opacity: 0;
-    background: linear-gradient(199.65deg, #DD24E1 1.5%, #5117F4 102.15%);
-    transition: opacity .2s ease;
-}
-
-.link-item:hover{
-    background: linear-gradient(199.65deg, #DD24E1 1.5%, #5117F4 102.15%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-
-.link-item:hover::before{
-    opacity: 1;
-    transition: opacity .3s ease;
 }
 
 .connect-btn{
@@ -116,16 +34,4 @@
     font-size: 18px;
     letter-spacing: 0.04em;
     line-height: 27px;
-}
-
-.wrapper{
-    @apply px-5 w-full mx-auto
-    lg:w-[90%];
-}
-
-.chat-btn{
-    @apply mt-10 p-[14px] text-[14px] flex items-center
-    lg:p-[24px] lg:text-[18px];
-    background: linear-gradient(85.63deg, #F827DE -9.39%, #2B14F9 114.93%);
-    border-radius: 8px;
 }
