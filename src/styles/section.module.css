@@ -1,0 +1,26 @@
+
+.section{
+    @apply py-8
+    2xl:py-12 2xl:text-lg;
+}
+
+.sectionTitle{
+    @apply font-exo-bold relative text-[1.5rem]
+    md:text-3xl
+    2xl:text-5xl;
+}
+
+.sectionTitle::before{
+    @apply absolute bottom-[-5px] left-0 w-[30%] h-[2px]
+    md:w-[20%]
+    lg:w-[90px];
+    content: "";
+    background: linear-gradient(199.65deg, #DD24E1 1.5%, #5117F4 102.15%);
+    transition: opacity .2s ease;
+}
+
+.sectionIntro{
+    @apply my-4 font-exo-bold
+    md:my-6 md:w-[50%] md:text-2xl
+    2xl:w-[30%] 2xl:text-3xl;
+}

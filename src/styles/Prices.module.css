@@ -1,0 +1,58 @@
+.prices{
+    @apply flex flex-1 flex-col mt-16
+    lg:grid lg:grid-cols-3 lg:gap-4;
+}
+
+.priceCard{
+    @apply flex flex-col justify-center items-center relative mb-14 min-h-[150px]
+    2xl:min-h-[200px];
+    background: linear-gradient(127.41deg, rgba(218, 37, 226, 0.2) 14.83%, rgba(87, 24, 243, 0.2) 110.24%, rgba(255, 245, 238, 0.2) 110.24%);
+    backdrop-filter: blur(2px);
+    border-radius: 14px;
+}
+
+.signWrapper{
+    @apply w-[65px] h-[65px] flex justify-center items-center relative;
+    background: linear-gradient(199.65deg, #DD24E1 1.5%, #5117F4 102.15%);
+    border-radius: 50%;
+    margin-top: -30px;
+    z-index: 5000;
+}
+
+.signWrapper::before{
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: -1;
+    opacity: 1;
+    width: 100%;
+    height: 100%;
+    @apply w-[60px] h-[60px];
+    background-color: #000000;
+    border-radius: 50%;
+}
+
+.price{
+    @apply w-full relative pb-5;
+}
+
+.price::before{
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 30px;
+    opacity: 0.3;
+    background: url("../../public/img/chart.svg") center/cover no-repeat;
+}
+
+.dols{
+    @apply text-2xl font-dm-sans text-center mt-3;
+}
+
+.naira{
+    @apply text-lg font-dm-sans text-center;
+}

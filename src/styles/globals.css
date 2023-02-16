@@ -35,3 +35,9 @@
     letter-spacing: 0.04em;
     line-height: 27px;
 }
+
+.container{
+    @apply px-5
+    md:w-[90%] mx-auto
+    lg:max-w-[95%]
+}

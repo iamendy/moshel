@@ -1,0 +1,245 @@
+<svg viewBox="0 0 1520 855" fill="none" xmlns="http://www.w3.org/2000/svg" >
+    <g clip-path="url(#chart-bar_svg__a)">
+        <path d="M366.225 493.775h-16.736v46.256h16.736v-46.256Z" fill="url(#chart-bar_svg__b)"></path>
+        <path d="M402.825 500.778h-16.736v87.352h16.736v-87.352Z" fill="url(#chart-bar_svg__c)"></path>
+        <path d="M513.178 417.48h-16.737v77.954h16.737V417.48Z" fill="url(#chart-bar_svg__d)"></path>
+        <path d="M586.746 456.365h-16.737v61.552h16.737v-61.552Z" fill="url(#chart-bar_svg__e)"></path>
+        <path d="M844.234 464.289h-16.736v59.341h16.736v-59.341Z" fill="url(#chart-bar_svg__f)"></path>
+        <path d="M881.018 487.141h-16.736v68.739h16.736v-68.739Z" fill="url(#chart-bar_svg__g)"></path>
+        <path d="M917.803 435.356h-16.737v36.12h16.737v-36.12Z" fill="url(#chart-bar_svg__h)"></path>
+        <path d="M1064.76 344.502h-16.74v140.98h16.74v-140.98Z" fill="url(#chart-bar_svg__i)"></path>
+        <path d="M1101.54 425.22h-16.74v93.618h16.74V425.22Z" fill="url(#chart-bar_svg__j)"></path>
+        <path d="M1211.89 451.573h-16.74v71.504h16.74v-71.504Z" fill="url(#chart-bar_svg__k)"></path>
+        <path d="M1359.03 380.807h-16.74v143.744h16.74V380.807Z" fill="url(#chart-bar_svg__l)"></path>
+        <path d="M1395.81 408.819h-16.74v82.56h16.74v-82.56Z" fill="url(#chart-bar_svg__m)"></path>
+        <path d="M219.089 444.017h-16.737v63.948h16.737v-63.948Z" fill="url(#chart-bar_svg__n)"></path>
+        <g filter="url(#chart-bar_svg__o)">
+            <path d="M108.737 425.22H92v46.256h16.737V425.22Z" fill="url(#chart-bar_svg__p)"></path>
+            <path d="M145.521 381.913h-16.737v24.878h16.737v-24.878Z" fill="url(#chart-bar_svg__q)"></path>
+            <path d="M182.305 447.703h-16.737v23.773h16.737v-23.773Z" fill="url(#chart-bar_svg__r)"></path>
+            <path d="M255.873 343.765h-16.737v127.711h16.737V343.765Z" fill="url(#chart-bar_svg__s)"></path>
+            <path d="M292.841 382.65h-16.737v56.207h16.737V382.65Z" fill="url(#chart-bar_svg__t)"></path>
+            <path d="M329.441 470.555h-16.737v24.141h16.737v-24.141Z" fill="url(#chart-bar_svg__u)"></path>
+            <path d="M439.61 378.596h-16.737v123.103h16.737V378.596Z" fill="url(#chart-bar_svg__v)"></path>
+            <path d="M476.394 444.755h-16.737v26.721h16.737v-26.721Z" fill="url(#chart-bar_svg__w)"></path>
+            <path d="M549.962 450.836h-16.737v20.64h16.737v-20.64Z" fill="url(#chart-bar_svg__x)"></path>
+            <path d="M623.53 381.176h-16.737v90.3h16.737v-90.3Z" fill="url(#chart-bar_svg__y)"></path>
+            <path d="M660.314 324.047h-16.737v77.032h16.737v-77.032Z" fill="url(#chart-bar_svg__z)"></path>
+            <path d="M697.098 240.565h-16.737v130.29h16.737v-130.29Z" fill="url(#chart-bar_svg__A)"></path>
+            <path d="M733.882 332.708h-16.736v108.177h16.736V332.708Z" fill="url(#chart-bar_svg__B)"></path>
+            <path d="M770.666 364.037H753.93v65.053h16.736v-65.053Z" fill="url(#chart-bar_svg__C)"></path>
+            <path d="M807.45 410.846h-16.736v60.63h16.736v-60.63Z" fill="url(#chart-bar_svg__D)"></path>
+            <path d="M954.403 379.517h-16.737v79.428h16.737v-79.428Z" fill="url(#chart-bar_svg__E)"></path>
+            <path d="M991.187 310.225H974.45v71.319h16.737v-71.319Z" fill="url(#chart-bar_svg__F)"></path>
+            <path d="M1027.97 264.89h-16.74v185.393h16.74V264.89Z" fill="url(#chart-bar_svg__G)"></path>
+            <path d="M1138.32 425.22h-16.73v25.616h16.73V425.22Z" fill="url(#chart-bar_svg__H)"></path>
+            <path d="M1175.11 385.598h-16.74v85.878h16.74v-85.878Z" fill="url(#chart-bar_svg__I)"></path>
+            <path d="M1248.68 338.605h-16.74v133.056h16.74V338.605Z" fill="url(#chart-bar_svg__J)"></path>
+            <path d="M1285.46 378.227h-16.74v44.597h16.74v-44.597Z" fill="url(#chart-bar_svg__K)"></path>
+            <path d="M1322.24 342.291h-16.73v67.818h16.73v-67.818Z" fill="url(#chart-bar_svg__L)"></path>
+            <path d="M1432.6 382.834h-16.74v43.86h16.74v-43.86Z" fill="url(#chart-bar_svg__M)"></path>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="chart-bar_svg__b" x1="357.857" y1="493.775" x2="357.857" y2="540.031"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F23FEC"></stop>
+            <stop offset="1" stop-color="#F938A6"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__c" x1="394.457" y1="500.778" x2="394.457" y2="588.13"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F23FEC"></stop>
+            <stop offset="1" stop-color="#F938A6"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__d" x1="504.809" y1="417.48" x2="504.809" y2="495.434"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F23FEC"></stop>
+            <stop offset="1" stop-color="#F938A6"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__e" x1="578.378" y1="456.365" x2="578.378" y2="517.917"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F23FEC"></stop>
+            <stop offset="1" stop-color="#F938A6"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__f" x1="835.866" y1="464.289" x2="835.866" y2="523.63"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F23FEC"></stop>
+            <stop offset="1" stop-color="#F938A6"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__g" x1="872.65" y1="487.141" x2="872.65" y2="555.88"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F23FEC"></stop>
+            <stop offset="1" stop-color="#F938A6"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__h" x1="909.434" y1="435.356" x2="909.434" y2="471.476"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F23FEC"></stop>
+            <stop offset="1" stop-color="#F938A6"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__i" x1="1056.39" y1="344.502" x2="1056.39" y2="485.482"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F23FEC"></stop>
+            <stop offset="1" stop-color="#F938A6"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__j" x1="1093.17" y1="425.22" x2="1093.17" y2="518.838"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F23FEC"></stop>
+            <stop offset="1" stop-color="#F938A6"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__k" x1="1203.52" y1="451.573" x2="1203.52" y2="523.077"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F23FEC"></stop>
+            <stop offset="1" stop-color="#F938A6"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__l" x1="1350.66" y1="380.807" x2="1350.66" y2="524.551"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F23FEC"></stop>
+            <stop offset="1" stop-color="#F938A6"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__m" x1="1387.44" y1="408.819" x2="1387.44" y2="491.379"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F23FEC"></stop>
+            <stop offset="1" stop-color="#F938A6"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__n" x1="210.721" y1="444.017" x2="210.721" y2="507.965"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#F23FEC"></stop>
+            <stop offset="1" stop-color="#F938A6"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__p" x1="100.368" y1="425.22" x2="100.368" y2="471.476"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#8008D7"></stop>
+            <stop offset="1" stop-color="#6C1DE1"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__q" x1="137.152" y1="381.913" x2="137.152" y2="406.791"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#8008D7"></stop>
+            <stop offset="1" stop-color="#6C1DE1"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__r" x1="173.937" y1="447.703" x2="173.937" y2="471.476"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#8008D7"></stop>
+            <stop offset="1" stop-color="#6C1DE1"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__s" x1="247.505" y1="343.765" x2="247.505" y2="471.476"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#8008D7"></stop>
+            <stop offset="1" stop-color="#6C1DE1"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__t" x1="284.473" y1="382.65" x2="284.473" y2="438.857"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#8008D7"></stop>
+            <stop offset="1" stop-color="#6C1DE1"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__u" x1="321.073" y1="470.555" x2="321.073" y2="494.696"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#8008D7"></stop>
+            <stop offset="1" stop-color="#6C1DE1"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__v" x1="431.241" y1="378.596" x2="431.241" y2="501.699"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#8008D7"></stop>
+            <stop offset="1" stop-color="#6C1DE1"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__w" x1="468.025" y1="444.755" x2="468.025" y2="471.476"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#8008D7"></stop>
+            <stop offset="1" stop-color="#6C1DE1"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__x" x1="541.593" y1="450.836" x2="541.593" y2="471.476"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#8008D7"></stop>
+            <stop offset="1" stop-color="#6C1DE1"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__y" x1="615.162" y1="381.176" x2="615.162" y2="471.476"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#8008D7"></stop>
+            <stop offset="1" stop-color="#6C1DE1"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__z" x1="651.946" y1="324.047" x2="651.946" y2="401.079"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#8008D7"></stop>
+            <stop offset="1" stop-color="#6C1DE1"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__A" x1="688.73" y1="240.565" x2="688.73" y2="370.855"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#8008D7"></stop>
+            <stop offset="1" stop-color="#6C1DE1"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__B" x1="725.514" y1="332.708" x2="725.514" y2="440.885"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#8008D7"></stop>
+            <stop offset="1" stop-color="#6C1DE1"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__C" x1="762.298" y1="364.037" x2="762.298" y2="429.09"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#8008D7"></stop>
+            <stop offset="1" stop-color="#6C1DE1"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__D" x1="799.082" y1="410.846" x2="799.082" y2="471.476"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#8008D7"></stop>
+            <stop offset="1" stop-color="#6C1DE1"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__E" x1="946.034" y1="379.517" x2="946.034" y2="458.945"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#8008D7"></stop>
+            <stop offset="1" stop-color="#6C1DE1"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__F" x1="982.819" y1="310.225" x2="982.819" y2="381.544"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#8008D7"></stop>
+            <stop offset="1" stop-color="#6C1DE1"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__G" x1="1019.6" y1="264.89" x2="1019.6" y2="450.283"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#8008D7"></stop>
+            <stop offset="1" stop-color="#6C1DE1"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__H" x1="1129.95" y1="425.22" x2="1129.95" y2="450.836"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#8008D7"></stop>
+            <stop offset="1" stop-color="#6C1DE1"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__I" x1="1166.74" y1="385.598" x2="1166.74" y2="471.476"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#8008D7"></stop>
+            <stop offset="1" stop-color="#6C1DE1"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__J" x1="1240.31" y1="338.605" x2="1240.31" y2="471.661"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#8008D7"></stop>
+            <stop offset="1" stop-color="#6C1DE1"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__K" x1="1277.09" y1="378.227" x2="1277.09" y2="422.824"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#8008D7"></stop>
+            <stop offset="1" stop-color="#6C1DE1"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__L" x1="1313.88" y1="342.291" x2="1313.88" y2="410.109"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#8008D7"></stop>
+            <stop offset="1" stop-color="#6C1DE1"></stop>
+        </linearGradient>
+        <linearGradient id="chart-bar_svg__M" x1="1424.23" y1="382.834" x2="1424.23" y2="426.694"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#8008D7"></stop>
+            <stop offset="1" stop-color="#6C1DE1"></stop>
+        </linearGradient>
+        <clipPath id="chart-bar_svg__a">
+            <path fill="#fff" transform="translate(92 212)" d="M0 0h1368v380H0z"></path>
+        </clipPath>
+        <filter id="chart-bar_svg__o" x="67" y="215.565" width="1390.6" height="311.135"
+                filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+            <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                           result="hardAlpha"></feColorMatrix>
+            <feOffset></feOffset>
+            <feGaussianBlur stdDeviation="12.5"></feGaussianBlur>
+            <feComposite in2="hardAlpha" operator="out"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.47451 0 0 0 0 0.0588235 0 0 0 0 0.854902 0 0 0 0.7 0"></feColorMatrix>
+            <feBlend in2="BackgroundImageFix" result="effect1_dropShadow_201_10"></feBlend>
+            <feBlend in="SourceGraphic" in2="effect1_dropShadow_201_10" result="shape"></feBlend>
+        </filter>
+    </defs>
+</svg>

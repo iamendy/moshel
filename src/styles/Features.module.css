@@ -1,0 +1,43 @@
+.featuresWrapper{
+    @apply my-7
+    md:grid md:grid-cols-2 md:gap-5;
+}
+
+.features{
+    @apply relative
+
+    2xl:max-w-5xl;
+}
+
+.features::before{
+    @apply absolute top-0 left-0;
+    content: "";
+    background: url("../../public/img/lines.svg") center/cover repeat;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+}
+
+.card{
+    @apply mb-7 px-8 py-8 leading-[24px] relative z-50
+    md:my-0;
+    background: linear-gradient(127.41deg, rgba(218, 37, 226, 0.2) 14.83%, rgba(87, 24, 243, 0.2) 110.24%, rgba(255, 245, 238, 0.2) 110.24%);
+    backdrop-filter: blur(2px);
+    border-radius: 14px;
+    min-height: 200px;
+}
+
+.cardTop{
+    @apply flex mb-3 space-x-2 items-center;
+}
+
+.cardTitle{
+    @apply font-exo-bold text-lg;
+    background: linear-gradient(199.65deg, #DD24E1 1.5%, #5117F4 102.15%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.cardBody{
+    @apply font-dm-sans leading-[30px];
+}

@@ -4,6 +4,7 @@ import styles from '@/styles/Home.module.css'
 import NavBar from "@/components/NavBar";
 import Hero from "@/components/Hero";
 import Features from "@/components/Features";
+import Prices from "@/components/Prices";
 
 export default function Home() {
   return (
@@ -38,6 +39,9 @@ export default function Home() {
         </div>
 
         <Features/>
+
+        <Prices/>
+
       </main>
     </>
   )
