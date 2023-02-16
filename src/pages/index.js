@@ -47,9 +47,9 @@ export default function Home() {
 
         <Faqs />
 
-        <Reviews/>
+        <Calculator />
 
-        {/*<Calculator />*/}
+        <Reviews/>
 
         <div className="cta">
           <Image src="/img/vr.png" width={100} height={100}/>
