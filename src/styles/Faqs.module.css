@@ -1,0 +1,14 @@
+.accordion{
+    @apply lg:flex-[6];
+    background: linear-gradient(127.41deg, rgba(218, 37, 226, 0.2) 14.83%, rgba(87, 24, 243, 0.2) 110.24%, rgba(255, 245, 238, 0.2) 110.24%);
+    backdrop-filter: blur(2px);
+    border-radius: 14px;
+}
+
+.title{
+    @apply font-exo-bold;
+}
+
+.tech{
+    @apply lg:flex-[4];
+}

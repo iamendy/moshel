@@ -10,7 +10,6 @@ const Prices = () => {
       const res = await fetch("https://breet.app/data-api/crypto-price-data")
       const resPrices = await res.json();
       setPrices([...resPrices])
-      console.log(resPrices)
     } catch (e) {
       console.log(e);
     }
@@ -38,7 +37,7 @@ const Prices = () => {
         {
           prices &&
           prices.map(price => (
-            <div className={styles.priceCard}>
+            <div className={styles.priceCard} key={price.name}>
               <div className={styles.signWrapper}>
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5}
                      stroke="currentColor" className="w-6 h-6">
@@ -47,7 +46,7 @@ const Prices = () => {
                 </svg>
               </div>
 
-              <div className={styles.price} key={price.name}>
+              <div className={styles.price}>
                 <p className={styles.dols}> ${roundUp(price.latestQuote)} </p>
                 <p className={styles.naira}> ₦746.98 </p>
                 <div className="ml-3">
