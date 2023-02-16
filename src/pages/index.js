@@ -6,6 +6,7 @@ import Hero from "@/components/Hero";
 import Features from "@/components/Features";
 import Prices from "@/components/Prices";
 import Faqs from "@/components/Faqs";
+import Reviews from "@/components/Reviews";
 
 export default function Home() {
   return (
@@ -44,6 +45,18 @@ export default function Home() {
         <Prices/>
 
         <Faqs />
+
+        <Reviews/>
+
+        <Calculator />
+
+        <div className="cta">
+          <Image src="/img/vr.png" width={100} height={100}/>
+
+          <div className="flex justify-center items-center pb-2">
+            <p>copyrights &copy; 2023 MoshelSwap</p>
+          </div>
+        </div>
 
       </main>
     </>

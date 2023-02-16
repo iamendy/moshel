@@ -1,0 +1,21 @@
+.reviewWrapper{
+    @apply my-9 space-y-4
+    md:grid md:grid-cols-2 md:gap-4 md:space-y-0
+    lg:w-[80%];
+}
+
+.card{
+    @apply px-3 flex justify-start items-start;
+}
+
+.name{
+    @apply w-[50px] h-[50px] mr-3 rounded-full inline-block flex justify-center items-center;
+    background: linear-gradient(270deg, #5C19F3 0%, #D123E3 100%);
+}
+
+.message{
+    @apply flex flex-col flex-[7] p-3;
+    background: linear-gradient(127.41deg, rgba(218, 37, 226, 0.2) 14.83%, rgba(87, 24, 243, 0.2) 110.24%, rgba(255, 245, 238, 0.2) 110.24%);
+    backdrop-filter: blur(2px);
+    border-radius: 14px;
+}
