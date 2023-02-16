@@ -7,6 +7,7 @@ import Features from "@/components/Features";
 import Prices from "@/components/Prices";
 import Faqs from "@/components/Faqs";
 import Reviews from "@/components/Reviews";
+import Calculator from "@/components/Calculator";
 
 export default function Home() {
   return (
@@ -48,7 +49,7 @@ export default function Home() {
 
         <Reviews/>
 
-        <Calculator />
+        {/*<Calculator />*/}
 
         <div className="cta">
           <Image src="/img/vr.png" width={100} height={100}/>
